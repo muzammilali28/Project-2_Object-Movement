@@ -1,3 +1,5 @@
 <pre>
-The file "i8086_and_DOS_interrupts.pdf" is available in the repository incase you need to understand what interrupts are used in the project and what do they do.
+The file "i8086_and_DOS_interrupts.pdf" is available in the repository
+incase you want to understand what interrupts are ? and what used in the project.
+Moreover, what do they do ?
 </pre>
